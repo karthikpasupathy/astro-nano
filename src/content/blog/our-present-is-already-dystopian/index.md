@@ -1,6 +1,6 @@
 ---
 title: "The present we live is already dystopian"
-description: "If you’re scared of AI and robots, you should take a pause. Because, we are our biggest threat."
+description: "Don't be scared of AI and robots. We are our biggest threat."
 date: "Nov 13 2024"
 canonical_url: "https://medium.com/@karthikpasupathy/the-present-we-live-is-already-dystopian-20cb1bf2d57d"
 ---

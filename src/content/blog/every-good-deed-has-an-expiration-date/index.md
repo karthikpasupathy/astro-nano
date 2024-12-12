@@ -1,6 +1,6 @@
 ---
 title: "Every good deed comes with an expiration date"
-description: "What's the limit for tolerating people just because they did a good thing?"
+description: "What's the to tolerating people?"
 date: "Nov 7 2024"
 canonical_url: "https://medium.com/@karthikpasupathy/every-good-deed-comes-with-an-expiration-date-43eb29bfab22"
 ---
