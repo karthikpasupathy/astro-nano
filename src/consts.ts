@@ -24,8 +24,8 @@ export const WORK: Metadata = {
 };
 
 export const PROJECTS: Metadata = {
-  TITLE: "Projects",
-  DESCRIPTION: "A collection of my projects, with links to repositories and demos.",
+  TITLE: "கட்டுரைகள்",
+  DESCRIPTION: "எனது கிறுக்கல்களின் தொகுப்பு",
 };
 
 export const SOCIALS: Socials = [
